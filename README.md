@@ -1,2 +1,2 @@
 # Handy-Calculator
-This will be published on the world wide web
+A friendly calculator that is able to compute decimal, binary, hexadecimal and bandwidth calculations.
